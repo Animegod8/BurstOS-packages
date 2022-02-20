@@ -1,0 +1,4 @@
+TASKMANAGE V1.0 FOR BURSTOS V1
+Size: 254 bytes
+Update Frequency: Rarely
+Command to Run it: TM --giveDiagnostic or --KillProcces
